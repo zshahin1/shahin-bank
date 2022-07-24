@@ -12,9 +12,11 @@ body{
 }
 .balance{
     background-color: slateblue;
+    
 }
 .deposit{
     background-color: lightsalmon;
+    
 }
 .withdraw{
     background-color: orange;
@@ -24,4 +26,7 @@ body{
     color: white;
     padding: 20px;
     border-radius: 10px;
+}
+.col-md-4{
+    margin-bottom: 20px;
 }
